@@ -1,0 +1,27 @@
+
+
+
+body {
+    background: linear-gradient( #21496b,white);
+   
+   
+}
+
+
+.container {
+    background-color: white;
+    text-align: center;
+   opacity: 80%;
+}
+
+.menu-opcoes a:hover {
+    color: white;
+}
+
+.menu-opcoes a:active {
+    color: #21496b;
+}
+
+.menu-departamentos li ul {
+    display: none;
+}
